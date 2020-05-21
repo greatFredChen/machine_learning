@@ -1,2 +1,7 @@
 # machine_learning
-machine_learning homework
+
+### 项目说明
+
+该项目为机器学习的作业，数据只保留了txt格式的，.mat格式大小太大不便上传。
+
+机器学习作业对应的课程是吴恩达老师的机器学习课程，因此数据可以在课程上找。
